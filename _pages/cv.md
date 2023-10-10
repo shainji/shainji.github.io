@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Environmental Engineering, Tsinghua University, 2021  
-    GPA: 3.2/4.0  
-    Courses:  
+* B.S. in Environmental Engineering, Tsinghua University, 2021<br>
+    GPA: 3.2/4.0<br>
+    Courses:<br>
       Water related: Engineering Design for Water and Wastewater Treatment  
       Environment related: Environmental Data and Mathematic Models  
       Math and Programming: Programming Fundamentals, Probability and Statistics  
