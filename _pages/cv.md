@@ -20,7 +20,7 @@ Education
       Math and Programming: Programming Fundamentals, Probability and Statistics <br>
     </details>
     
-    #**Courses**:<br>
+    # **Courses**:<br>
     #  **Water related**: Engineering Design for Water and Wastewater Treatment <br>
     #  **Environment related**: Environmental Data and Mathematic Models <br>
     #  **Math and Programming**: Programming Fundamentals, Probability and Statistics <br>
