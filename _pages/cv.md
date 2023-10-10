@@ -11,15 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in Environmental Engineering, Tsinghua University, 2021
-    GPA: 3.2/4.0
-    Courses:
-      Water related: Engineering Design for Water and Wastewater Treatment
-      Environment related: Environmental Data and Mathematic Models
-      Math and Programming: Programming Fundamentals, Probability and Statistics
+* B.S. in Environmental Engineering, Tsinghua University, 2021  
+    GPA: 3.2/4.0  
+    Courses:  
+      Water related: Engineering Design for Water and Wastewater Treatment  
+      Environment related: Environmental Data and Mathematic Models  
+      Math and Programming: Programming Fundamentals, Probability and Statistics  
 * M.S. in Municipal Engineering, Water supply and drainage, Tongji University, 2024
-    GPA: 4.7/5.0
-    Courses: Methods of optimization, Numerical Analysis, Theory of Water Supply and Sewage Treatment
+    GPA: 4.7/5.0  
+    Courses: Methods of optimization, Numerical Analysis, Theory of Water Supply and Sewage Treatment  
 
 Work experience
 ======
