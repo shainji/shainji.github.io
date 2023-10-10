@@ -19,15 +19,13 @@ Education
       Environment related: Environmental Data and Mathematic Models <br>
       Math and Programming: Programming Fundamentals, Probability and Statistics <br>
     </details>
-    
-    # **Courses**:<br>
-    #  **Water related**: Engineering Design for Water and Wastewater Treatment <br>
-    #  **Environment related**: Environmental Data and Mathematic Models <br>
-    #  **Math and Programming**: Programming Fundamentals, Probability and Statistics <br>
+
 * M.S. in Municipal Engineering, Water supply and drainage, 2024/3 <br>
   Tongji University (ranked 14th in <a href="https://www.usnews.com/education/best-global-universities/water-resources" target="_blank">U.S.News Best Global Universities for Water Resources</a>) <br>
     **GPA**: 4.7/5.0<br>
-    **Courses**: Methods of optimization, Numerical Analysis, Theory of Water Supply and Sewage Treatment<br>
+    <details> <summary>Courses</summary>
+    Methods of optimization, Numerical Analysis, Theory of Water Supply and Sewage Treatment
+    </details>
 
 Work experience
 ======
