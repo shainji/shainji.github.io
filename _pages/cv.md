@@ -15,10 +15,11 @@ Education
   Tsinghua University (ranked 23th in <a href="https://www.usnews.com/education/best-global-universities/tsinghua-university-503146" target="_blank">U.S.News Best Global Universities</a>) <br>
     **GPA**: 3.2/4.0 <br>
     <details> <summary>Courses</summary>
-      **Water related**: Engineering Design for Water and Wastewater Treatment <br>
+      * Water related: Engineering Design for Water and Wastewater Treatment <br>
       **Environment related**: Environmental Data and Mathematic Models <br>
       **Math and Programming**: Programming Fundamentals, Probability and Statistics <br>
     </details>
+    
     **Courses**:<br>
       **Water related**: Engineering Design for Water and Wastewater Treatment <br>
       **Environment related**: Environmental Data and Mathematic Models <br>
