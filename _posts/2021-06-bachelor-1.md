@@ -13,6 +13,11 @@ Rearranged the time series data into graph, transformed into time Laplace matrix
 Conducted analysis of characteristic frequency based on features of hydraulic data.
 Demonstrated feasibility through data testing
 
+<a href="https://example.com/your-pdf-file.pdf" target="_blank" rel="noopener noreferrer">
+  <img src="https://example.com/pdf-icon.png" alt="PDF图标">
+</a>
+
+
 Headings are cool
 ======
 
