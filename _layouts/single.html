@@ -39,11 +39,14 @@ layout: default
         {% elsif page.collection == 'posts' %}
           <p class="page__date">
             <strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Time:
-            {{ page.date | date: "%Y/%m" }} -
+            {{ page.date | date: "%Y/%m -" }} 
             {% if page.end_date %}
               {{ page.end_date | date: "%Y/%m" }}
             {% else %}
-              present </p>
+              present 
+            {% endif %}
+            </strong>
+          </p>
         {% elsif page.venue and page.date %}
           <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.date %}
