@@ -14,7 +14,7 @@ Conducted analysis of characteristic frequency based on features of hydraulic da
 Demonstrated feasibility through data testing
 
 <a href="https://example.com/your-pdf-file.pdf" target="_blank" rel="noopener noreferrer">
-  <img src="https://example.com/pdf-icon.png" alt="PDF图标">
+  <img src="/images/pdf-icon.png" alt="PDF图标">
 </a>
 
 
