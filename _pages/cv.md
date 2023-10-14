@@ -26,46 +26,36 @@ Education
     <details> <summary>Courses</summary>
     Methods of optimization, Numerical Analysis, Theory of Water Supply and Sewage Treatment
     </details>
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: Python
+* Modelling
+  * EPANET
+  * AutoCAD
+  * ArcGIS
+* Platform: WNTR, Pytorch, Tensorflow, Pandas
+
+Language
+======
+English: Fluent
+Mandarin: Native
+
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* Markov Decision Process Based Value chain calculation of water distribution network scheduling <br>
+  \[Under review\] _Journal of Hydroinformatics_  __Xuanting Ji__, Minghai Chen, Zhengheng Pu, Yanfu Fu, Tao Taoa, Kunlun Xin <br>
+
+
+Outreach
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+* Secretary in Student Union Publicity Department, Tsinghua University <br>
+* Volunteer of Water filter construction for arsenic removal in Pingyao, China <br>
+* Volunteer of campus tour guide, Tsinghua University
+
+Awards
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Veolia Scholarship Outstanding Undergraduate Student, Tsinghua University, 2019
+First prize, Sprout Green Innovation Environmental Case Competition, 2018
+
