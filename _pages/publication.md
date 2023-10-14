@@ -4,6 +4,7 @@ title: "Publiaction"
 permalink: /publication/
 author_profile: true
 ---
+
 * Markov Decision Process Based Value chain calculation of water distribution network scheduling <br>
   __Xuanting Ji__, Minghai Chen, Zhengheng Pu, Yanfu Fu, Tao Taoa, Kunlun Xin <br>
    \[Under review\] <a href="https://iwaponline.com/jh" target="_blank"> _Journal of Hydroinformatics_ </a>
