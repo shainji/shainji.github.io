@@ -11,16 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in Environmental Engineering, 2021/6 <br>
+* B.S. in Environmental Engineering, 2021/06 <br>
   Tsinghua University (ranked 23th in <a href="https://www.usnews.com/education/best-global-universities/tsinghua-university-503146" target="_blank">U.S.News Best Global Universities</a>) <br>
     **GPA**: 3.2/4.0 <br>
     <details> <summary>Courses</summary>
-      <b>Water related</b> : Engineering Design for Water and Wastewater Treatment <br>
-      Environment related: Environmental Data and Mathematic Models <br>
-      Math and Programming: Programming Fundamentals, Probability and Statistics <br>
+      **Water related** : Engineering Design for Water and Wastewater Treatment <br>
+      **Environment related**: Environmental Data and Mathematic Models <br>
+      **Math and Programming**: Programming Fundamentals, Probability and Statistics <br>
     </details>
 
-* M.S. in Municipal Engineering, Water supply and drainage, 2024/3 <br>
+* M.S. in Municipal Engineering, Water supply and drainage, 2024/03 <br>
   Tongji University (ranked 14th in <a href="https://www.usnews.com/education/best-global-universities/water-resources" target="_blank">U.S.News Best Global Universities for Water Resources</a>) <br>
     **GPA**: 4.7/5.0<br>
     <details> <summary>Courses</summary>
