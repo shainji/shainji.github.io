@@ -26,27 +26,29 @@ Education
     <details> <summary>Courses</summary>
     Methods of optimization, Numerical Analysis, Theory of Water Supply and Sewage Treatment
     </details>
-  
-Skills
-======
-* Programming: Python
-* Modelling
-  * EPANET
-  * AutoCAD
-  * ArcGIS
-* Platform: WNTR, Pytorch, Tensorflow, Pandas
-
-Language
-======
-English: Fluent
-Mandarin: Native
-
 
 Publications
 ======
 * Markov Decision Process Based Value chain calculation of water distribution network scheduling <br>
-  \[Under review\] _Journal of Hydroinformatics_  __Xuanting Ji__, Minghai Chen, Zhengheng Pu, Yanfu Fu, Tao Taoa, Kunlun Xin <br>
+  __Xuanting Ji__, Minghai Chen, Zhengheng Pu, Yanfu Fu, Tao Taoa, Kunlun Xin <br>
+   \[Under review\] <a href="https://iwaponline.com/jh" target="_blank"> _Journal of Hydroinformatics_ </a>
+* Intelligent real-time scheduling of water supply network based on deep learning <br>
+  Zhengheng Pu, Minghai Chen, __Xuanting Ji__, Yanfu Fu, Wenchong Tian, Tao Tao, Kunlun Xin <br>
+   \[Under review\] <a href="https://iwaponline.com/aqua" target="_blank"> _AQUQ_ </a>  
+* Software Copyright of Water distribution network online hydraulic simulation and burst detection <br>
+  Registered at CHINA COPYRIGHT PROTECTION CENTER. Registration Number: 2023SR0829571. <br>
 
+Skills
+======
+* Programming: Python, MATLAB, C, R, Java
+* Machine Learning: Deep learning, Reinforcement Learning
+* Modelling: EPANET, AutoCAD, ArcGIS
+* Platform: WNTR, Pytorch, Tensorflow, Pandas
+
+Language
+======
+* English: _fluent_ <br>
+* Mandarin: _native_
 
 Outreach
 ======
@@ -56,6 +58,6 @@ Outreach
 
 Awards
 ======
-Veolia Scholarship Outstanding Undergraduate Student, Tsinghua University, 2019
-First prize, Sprout Green Innovation Environmental Case Competition, 2018
+* Veolia Scholarship Outstanding Undergraduate Student, Tsinghua University, 2019 <br>
+* First prize, Sprout Green Innovation Environmental Case Competition, 2018
 
