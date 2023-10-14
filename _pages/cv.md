@@ -15,7 +15,7 @@ Education
   Tsinghua University (ranked 23th in <a href="https://www.usnews.com/education/best-global-universities/tsinghua-university-503146" target="_blank">U.S.News Best Global Universities</a>) <br>
     **GPA**: 3.2/4.0 <br>
     <details> <summary>Courses</summary>
-      Water related: Engineering Design for Water and Wastewater Treatment <br>
+      <b>Water related</b> : Engineering Design for Water and Wastewater Treatment <br>
       Environment related: Environmental Data and Mathematic Models <br>
       Math and Programming: Programming Fundamentals, Probability and Statistics <br>
     </details>
@@ -34,7 +34,7 @@ Publications
    \[Under review\] <a href="https://iwaponline.com/jh" target="_blank"> _Journal of Hydroinformatics_ </a>
 * Intelligent real-time scheduling of water supply network based on deep learning <br>
   Zhengheng Pu, Minghai Chen, __Xuanting Ji__, Yanfu Fu, Wenchong Tian, Tao Tao, Kunlun Xin <br>
-   \[Under review\] <a href="https://iwaponline.com/aqua" target="_blank"> _AQUQ_ </a>  
+   \[Under review\] <a href="https://iwaponline.com/aqua" target="_blank"> _AQUA_ </a>  
 * Software Copyright of Water distribution network online hydraulic simulation and burst detection <br>
   Registered at CHINA COPYRIGHT PROTECTION CENTER. Registration Number: 2023SR0829571. <br>
 
