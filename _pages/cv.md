@@ -41,7 +41,7 @@ Publications
   <a href="https://drive.google.com/file/d/10OSauLEA8AAQV-ZF5r4UX-VKG46VetBl/view?usp=sharing" target="_blank" rel="noopener noreferrer">
   <img src="/images/pdf-icon.png" alt="PDF icon"> </a>
   <a href="https://iwaponline.com/aqua" target="_blank"> _AQUA_ </a>
-* Software Copyright of Water distribution network online hydraulic simulation and burst detection <br>
+* Software Copyright of Water distribution network online hydraulic simulation and burst detection. <br>
   Registered at CHINA COPYRIGHT PROTECTION CENTER. Registration Number: 2023SR0829571. <br>
 
 Skills
