@@ -44,6 +44,31 @@ Publications
 * Software Copyright of Water distribution network online hydraulic simulation and burst detection. <br>
   Registered at CHINA COPYRIGHT PROTECTION CENTER. Registration Number: 2023SR0829571. <br>
 
+Research Experience
+======
+* Value evaluation of scheduling decisions in water distribution network <br>
+Supervisor: Kunlun Xin, Tongji University <br>
+_Markov decision process_ | _Decision evaluation_ | _Water distribution network_ <br>
+  * Set value indicators and parameters for immediate reward function.
+  * Proposed a method to evaluate the cumulative value of scheduling decisions.
+  * Proposed a method to evaluate the cumulative value of scheduling decisions.
+
+* Value evaluation of scheduling decisions in water distribution network <br>
+Supervisor: Shuming Liu, Tsinghua University <br>
+_abnormal data management_ | _graph signal sampling theory_ | _time series data_ <br>
+  * Rearranged the time series data into graph, transformed into time Laplace matrix.
+  * Conducted analysis of characteristic frequency based on features of hydraulic data.
+  * Demonstrated feasibility through data testing.
+
+Project
+======
+Intelligent scheduling system of water distribution network in eastern Qingpu District of Shanghai <br>
+A real-time scheduling system for water distribution network based on deep learning. <br>
+* Developed the evaluation model with Python.
+* Developed calculating algorithms for different scheduling objects.
+* Ensured the normal operation of the whole system, supported the real-time scheduling.
+
+
 Skills
 ======
 * Programming: Python, MATLAB, C, R, Java
