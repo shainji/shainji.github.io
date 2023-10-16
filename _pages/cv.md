@@ -65,7 +65,8 @@ _abnormal data management_ | _graph signal sampling theory_ | _time series data_
 
 Project
 ======
-__Intelligent scheduling system of water distribution network in eastern Qingpu District of Shanghai__ <br>
+__Digital real time scheduling system of water distribution network in eastern Qingpu District of Shanghai__ <br>
+_Joint Research Project_: Tongji University & Shanghai Chengtou Water Group Co., LTD <br>
 A real-time scheduling system for water distribution network based on deep learning. <br>
   * Engaged in overall control system development, maintenance and amelioration.
   * Designed control effect calculation algorithms for different control objects.
