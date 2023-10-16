@@ -35,12 +35,14 @@ Publications
   <a href="https://drive.google.com/file/d/1j1azuKvYZA4WapN08HNLWC0UENZQCUj0/view?usp=sharing" target="_blank" rel="noopener noreferrer">
   \[Under review\]
   <img src="/images/pdf-icon.png" alt="PDF icon"></a>
+  & nbsp; & nbsp;
   <a href="https://iwaponline.com/jh" target="_blank"> _Journal of Hydroinformatics_ </a>
 * Intelligent real-time scheduling of water supply network based on deep learning <br>
   Zhengheng Pu, Minghai Chen, __Xuanting Ji__, Yanfu Fu, Wenchong Tian, Tao Tao, Kunlun Xin <br>
-   \[Under review\] 
   <a href="https://drive.google.com/file/d/1j1azuKvYZA4WapN08HNLWC0UENZQCUj0/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+  \[Under review\]
   <img src="/images/pdf-icon.png" alt="PDF icon"> </a>
+  & nbsp; & nbsp;
   <a href="https://iwaponline.com/aqua" target="_blank"> _AQUA_ </a>
 * Software Copyright of Water distribution network online hydraulic simulation and burst detection. <br>
   Registered at CHINA COPYRIGHT PROTECTION CENTER. Registration Number: 2023SR0829571. <br>
