@@ -49,15 +49,15 @@ Publications
 Research Experience
 ======
 * Value evaluation of scheduling decisions in water distribution network <br>
-__Supervisor__: Kunlun Xin, Tongji University <br>
-__Lab__: Smart Water Joint Innovation R&D Center, Tongji University <br>
+__Supervisor__: <a href="https://sese.tongji.edu.cn/szdw/zyjs/js/X/xkl.htm" target="_blank"> Kunlun Xin, Tongji University</a> <br>
+__Lab__: <a href="https://smartwater.tongji.edu.cn/index.htm" target="_blank"> Smart Water Joint Innovation R&D Center </a> , Tongji University <br>
 _Markov decision process_ | _Decision evaluation_ | _Water distribution network_ <br>
   * Set value indicators and parameters for immediate reward function.
   * Proposed a method to evaluate the cumulative value of scheduling decisions.
   * Conducted test and verification on practical scheduling and hydraulic data.
 
 * Missing data repair of water network based on graph sampling theory <br>
-Supervisor: Shuming Liu, Tsinghua University <br>
+__Supervisor__: <a href="https://www.tsinghua.edu.cn/enven/info/1052/2000.htm" target="_blank">Shuming Liu, Tsinghua University</a> <br>
 _abnormal data management_ | _graph signal sampling theory_ | _time series data_ <br>
   * Rearranged the time series data into graph, transformed into time Laplace matrix.
   * Conducted analysis of characteristic frequency based on features of hydraulic data.
@@ -65,12 +65,12 @@ _abnormal data management_ | _graph signal sampling theory_ | _time series data_
 
 Project
 ======
-Intelligent scheduling system of water distribution network in eastern Qingpu District of Shanghai <br>
+__Intelligent scheduling system of water distribution network in eastern Qingpu District of Shanghai__ <br>
 A real-time scheduling system for water distribution network based on deep learning. <br>
-* Developed the evaluation model with Python.
-* Developed calculating algorithms for different scheduling objects.
-* Ensured the normal operation of the whole system, supported the real-time scheduling.
-
+* Engaged in overall control system development, maintenance and amelioration.
+* Designed control effect calculation algorithms for different control objects.
+* Developed evaluation and feedback model with Python.
+* Conducted operating data analysis, monitored operating state.
 
 Skills
 ======
