@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shain"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Xuanting Ji"
 description              : &description "master student in water environment, applying for PhD"
