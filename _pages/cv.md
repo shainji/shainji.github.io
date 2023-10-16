@@ -35,14 +35,13 @@ Publications
   <a href="https://drive.google.com/file/d/1j1azuKvYZA4WapN08HNLWC0UENZQCUj0/view?usp=sharing" target="_blank" rel="noopener noreferrer">
   \[Under review\]
   <img src="/images/pdf-icon.png" alt="PDF icon"></a>
-  & nbsp; & nbsp;
   <a href="https://iwaponline.com/jh" target="_blank"> _Journal of Hydroinformatics_ </a>
+  
 * Intelligent real-time scheduling of water supply network based on deep learning <br>
   Zhengheng Pu, Minghai Chen, __Xuanting Ji__, Yanfu Fu, Wenchong Tian, Tao Tao, Kunlun Xin <br>
   <a href="https://drive.google.com/file/d/1j1azuKvYZA4WapN08HNLWC0UENZQCUj0/view?usp=sharing" target="_blank" rel="noopener noreferrer">
   \[Under review\]
   <img src="/images/pdf-icon.png" alt="PDF icon"> </a>
-  & nbsp; & nbsp;
   <a href="https://iwaponline.com/aqua" target="_blank"> _AQUA_ </a>
 * Software Copyright of Water distribution network online hydraulic simulation and burst detection. <br>
   Registered at CHINA COPYRIGHT PROTECTION CENTER. Registration Number: 2023SR0829571. <br>
@@ -66,7 +65,7 @@ _abnormal data management_ | _graph signal sampling theory_ | _time series data_
 
 Project
 ======
-__Digital real time scheduling system of water distribution network in eastern Qingpu District of Shanghai__ <br>
+* __Digital real time scheduling system of water distribution network in eastern Qingpu District of Shanghai__ <br>
 _Joint Research Project_: Tongji University & Shanghai Chengtou Water Group Co., LTD <br>
 A real-time scheduling system for water distribution network based on deep learning. <br>
   * Engaged in overall control system development, maintenance and amelioration.
@@ -74,7 +73,7 @@ A real-time scheduling system for water distribution network based on deep learn
   * Developed evaluation and feedback model with Python.
   * Conducted operating data analysis, monitored operating state.
 
-__Design of water supply and drainage network in urban area of a town__ <br>
+* __Design of water supply and drainage network in urban area of a town__ <br>
 _Group Project of Course_: Urban Water and Wastewater Pipeline Works<br>
   * Conducted hydraulic calculation and topological design of drainage part.
   * Compiled design document and drew plans and sections.
