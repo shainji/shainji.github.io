@@ -15,7 +15,7 @@ Education
   Tsinghua University, China (ranked 23th in <a href="https://www.usnews.com/education/best-global-universities/tsinghua-university-503146" target="_blank">U.S.News Best Global Universities</a>) <br>
     **GPA**: 3.2/4.0 <br>
     <details> <summary>Courses</summary>
-      <b>Water major</b> : __Water__ Quality Control Engineering, Engineering Design for Water and Wastewater Treatment, Urban Water and Wastewater Pipeline Works <br>
+      <b>Water major</b> : Water Quality Control Engineering, Engineering Design for Water and Wastewater Treatment, Urban Water and Wastewater Pipeline Works <br>
       <b>Environmental major</b>: Environmental Data and Mathematic Models, Principle of Environmental Engineering, Air Pollution Control Engineering, Solid Waste Treatment and Disposal Engineering <br>
       <b>Math and Programming</b>: Programming Fundamentals, Probability and Statistics, Introduction to Methods of Mathematics and Physics, Calculus, Linear Algebra <br>
     </details>
@@ -24,7 +24,9 @@ Education
   Tongji University, China (ranked 14th in <a href="https://www.usnews.com/education/best-global-universities/water-resources" target="_blank">U.S.News Best Global Universities for Water Resources</a>) <br>
     **GPA**: 4.7/5.0<br>
     <details> <summary>Courses</summary>
-    Methods of optimization, Numerical Analysis, Theory of Water Supply and Sewage Treatment, Data Management and Experimental Design, Cost Analysis in Water Supply and Sewage Engineering, Frontier in Municipal Engineering
+    Methods of optimization, Numerical Analysis <br>
+      Theory of Water Supply and Sewage Treatment, Data Management and Experimental Design <br>
+      Cost Analysis in Water Supply and Sewage Engineering, Frontier in Municipal Engineering <br>
     </details>
 
 Publications
@@ -47,11 +49,12 @@ Publications
 Research Experience
 ======
 * Value evaluation of scheduling decisions in water distribution network <br>
-Supervisor: Kunlun Xin, Tongji University <br>
+__Supervisor__: Kunlun Xin, Tongji University <br>
+__Lab__: Smart Water Joint Innovation R&D Center, Tongji University <br>
 _Markov decision process_ | _Decision evaluation_ | _Water distribution network_ <br>
   * Set value indicators and parameters for immediate reward function.
   * Proposed a method to evaluate the cumulative value of scheduling decisions.
-  * Proposed a method to evaluate the cumulative value of scheduling decisions.
+  * Conducted test and verification on practical scheduling and hydraulic data.
 
 * Missing data repair of water network based on graph sampling theory <br>
 Supervisor: Shuming Liu, Tsinghua University <br>
@@ -72,9 +75,10 @@ A real-time scheduling system for water distribution network based on deep learn
 Skills
 ======
 * Programming: Python, MATLAB, C, R, Java
-* Machine Learning: Deep learning, Reinforcement Learning
-* Modelling: EPANET, AutoCAD, ArcGIS
-* Platform: WNTR, Pytorch, Tensorflow, Pandas
+* Modelling: EPANET, AutoCAD, ArcGIS, WNTR
+* Platform:
+  * ML/DL/RL: Pytorch, Tensorflow
+  * Data analysis: Pandas
 
 Language
 ======
@@ -83,12 +87,12 @@ Language
 
 Outreach
 ======
-* Secretary in Student Union Publicity Department, Tsinghua University <br>
+* Secretary in Student Union Publicity Department, School of Environment, Tsinghua University <br>
 * Volunteer of Water filter construction for arsenic removal in Pingyao, China <br>
 * Volunteer of campus tour guide, Tsinghua University
 
 Awards
 ======
 * Veolia Scholarship Outstanding Undergraduate Student, Tsinghua University, 2019 <br>
-* First prize, Sprout Green Innovation Environmental Case Competition, 2018
+* First prize, Sprout Green Innovation Environmental Case Competition, Tsinghua University 2018
 
