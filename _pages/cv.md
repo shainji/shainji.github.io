@@ -102,3 +102,6 @@ Awards
 * Veolia Scholarship Outstanding Undergraduate Student, Tsinghua University, 2019 <br>
 * First prize, Sprout Green Innovation Environmental Case Competition, Tsinghua University 2018
 
+Hobbies
+======
+Photography (Works on Instagram), Skateboarding, Swimming, Accordion, Guitar, Film and Vedio Editing
