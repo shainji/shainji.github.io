@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Environmental Engineering, 2021/06 <br>
+* <b>B.S. in Environmental Engineering, 2021</b> <br> 
   Tsinghua University, China (ranked 23th in <a href="https://www.usnews.com/education/best-global-universities/tsinghua-university-503146" target="_blank">U.S.News Best Global Universities</a>) <br>
     **GPA**: 3.2/4.0 <br>
     <details> <summary>Courses</summary>
@@ -20,7 +20,7 @@ Education
       <b>Math and Programming</b>: Programming Fundamentals, Probability and Statistics, Introduction to Methods of Mathematics and Physics, Calculus, Linear Algebra <br>
     </details>
 
-* M.S. in Municipal Engineering, Water supply and drainage, 2024/03 <br>
+* <b>M.S. in Municipal Engineering, Water supply and drainage, 2024 </b> <br>
   Tongji University, China (ranked 14th in <a href="https://www.usnews.com/education/best-global-universities/water-resources" target="_blank">U.S.News Best Global Universities for Water Resources</a>) <br>
     **GPA**: 4.7/5.0<br>
     <details> <summary>Courses</summary>
@@ -48,7 +48,7 @@ Publications
 
 Research Experience
 ======
-* Value evaluation of scheduling decisions in water distribution network <br>
+* __Value evaluation of scheduling decisions in water distribution network__ <br>
 __Supervisor__: <a href="https://sese.tongji.edu.cn/szdw/zyjs/js/X/xkl.htm" target="_blank"> Kunlun Xin, Tongji University</a> <br>
 __Lab__: <a href="https://smartwater.tongji.edu.cn/index.htm" target="_blank"> Smart Water Joint Innovation R&D Center </a> , Tongji University <br>
 _Markov decision process_ | _Decision evaluation_ | _Water distribution network_ <br>
@@ -56,7 +56,7 @@ _Markov decision process_ | _Decision evaluation_ | _Water distribution network_
   * Proposed a method to evaluate the cumulative value of scheduling decisions.
   * Conducted test and verification on practical scheduling and hydraulic data.
 
-* Missing data repair of water network based on graph sampling theory <br>
+* __Missing data repair of water network based on graph sampling theory__ <br>
 __Supervisor__: <a href="https://www.tsinghua.edu.cn/enven/info/1052/2000.htm" target="_blank">Shuming Liu, Tsinghua University</a> <br>
 _abnormal data management_ | _graph signal sampling theory_ | _time series data_ <br>
   * Rearranged the time series data into graph, transformed into time Laplace matrix.
@@ -67,10 +67,15 @@ Project
 ======
 __Intelligent scheduling system of water distribution network in eastern Qingpu District of Shanghai__ <br>
 A real-time scheduling system for water distribution network based on deep learning. <br>
-* Engaged in overall control system development, maintenance and amelioration.
-* Designed control effect calculation algorithms for different control objects.
-* Developed evaluation and feedback model with Python.
-* Conducted operating data analysis, monitored operating state.
+  * Engaged in overall control system development, maintenance and amelioration.
+  * Designed control effect calculation algorithms for different control objects.
+  * Developed evaluation and feedback model with Python.
+  * Conducted operating data analysis, monitored operating state.
+
+__Design of water supply and drainage network in urban area of a town__ <br>
+_Group Project of Course_: Urban Water and Wastewater Pipeline Works<br>
+  * Conducted hydraulic calculation and topological design of drainage part.
+  * Compiled design document and drew plans and sections.
 
 Skills
 ======
