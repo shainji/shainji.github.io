@@ -14,8 +14,8 @@ Education
 * <b>B.S. in Environmental Engineering, 2021</b> <br> 
   Tsinghua University, China (ranked 23th in <a href="https://www.usnews.com/education/best-global-universities/tsinghua-university-503146" target="_blank">U.S.News Best Global Universities</a>) <br>
     **GPA**: 3.2/4.0 <br>
-    <details> <summary>Courses</summary>
-      <b>Water major</b> : Water Quality Control Engineering, Engineering Design for Water and Wastewater Treatment, Urban Water and Wastewater Pipeline Works <br>
+    <details> <summary>Main Courses</summary>
+      <b>Water major</b>: Fluid Mechanics, Water Quality Control Engineering, Engineering Design for Water and Wastewater Treatment, Urban Water and Wastewater Pipeline Works <br>
       <b>Environmental major</b>: Environmental Data and Mathematic Models, Principle of Environmental Engineering, Air Pollution Control Engineering, Solid Waste Treatment and Disposal Engineering <br>
       <b>Math and Programming</b>: Programming Fundamentals, Probability and Statistics, Introduction to Methods of Mathematics and Physics, Calculus, Linear Algebra <br>
     </details>
@@ -23,18 +23,17 @@ Education
 * <b>M.S. in Municipal Engineering, Water supply and drainage, 2024 </b> <br>
   Tongji University, China (ranked 14th in <a href="https://www.usnews.com/education/best-global-universities/water-resources" target="_blank">U.S.News Best Global Universities for Water Resources</a>) <br>
     **GPA**: 4.7/5.0<br>
-    <details> <summary>Courses</summary>
-    Methods of optimization, Numerical Analysis <br>
-      Theory of Water Supply and Sewage Treatment, Data Management and Experimental Design <br>
-      Cost Analysis in Water Supply and Sewage Engineering, Frontier in Municipal Engineering <br>
+    <details> <summary>Main Courses</summary>
+      <b>Math and Analysis</b>: Methods of optimization, Numerical Analysis <br>
+      <b>Professions</b>: Theory of Water Supply and Sewage Treatment, Data Management and Experimental Design, Cost Analysis in Water Supply and Sewage Engineering, Frontier in Municipal Engineering <br>
     </details>
 
 Publications
 ======
 * Markov Decision Process Based Value chain calculation of water distribution network scheduling <br>
   __Xuanting Ji__, Minghai Chen, Zhengheng Pu, Yanfu Fu, Tao Taoa, Kunlun Xin <br>
-   \[Under review\]
   <a href="https://drive.google.com/file/d/1j1azuKvYZA4WapN08HNLWC0UENZQCUj0/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+  \[Under review\]
   <img src="/images/pdf-icon.png" alt="PDF icon"></a>
   <a href="https://iwaponline.com/jh" target="_blank"> _Journal of Hydroinformatics_ </a>
 * Intelligent real-time scheduling of water supply network based on deep learning <br>
