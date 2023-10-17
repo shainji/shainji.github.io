@@ -48,7 +48,7 @@ Publications
 
 Research Experience
 ======
-* __Value evaluation of scheduling decisions in water distribution network__ <br>
+* __Value evaluation of scheduling decisions in water distribution network__, 10/2022 - present <br>
 __Supervisor__: <a href="https://sese.tongji.edu.cn/szdw/zyjs/js/X/xkl.htm" target="_blank"> Kunlun Xin, Tongji University</a> <br>
 __Lab__: <a href="https://smartwater.tongji.edu.cn/index.htm" target="_blank"> Smart Water Joint Innovation R&D Center </a> , Tongji University <br>
 _Markov decision process_ | _Decision evaluation_ | _Water distribution network_ <br>
@@ -56,7 +56,7 @@ _Markov decision process_ | _Decision evaluation_ | _Water distribution network_
   * Proposed a method to evaluate the cumulative value of scheduling decisions.
   * Conducted test and verification on practical scheduling and hydraulic data.
 
-* __Missing data repair of water network based on graph sampling theory__ <br>
+* __Missing data repair of water network based on graph sampling theory__, 10/2020 - 06/2021 <br>
 __Supervisor__: <a href="https://www.tsinghua.edu.cn/enven/info/1052/2000.htm" target="_blank">Shuming Liu, Tsinghua University</a> <br>
 _abnormal data management_ | _graph signal sampling theory_ | _time series data_ <br>
   * Rearranged the time series data into graph, transformed into time Laplace matrix.
@@ -65,7 +65,7 @@ _abnormal data management_ | _graph signal sampling theory_ | _time series data_
 
 Project
 ======
-* __Digital real time scheduling system of water distribution network in eastern Qingpu District of Shanghai__ <br>
+* __Digital real time scheduling system of water distribution network in eastern Qingpu District of Shanghai__, 2022 <br>
 _Joint Research Project_: Tongji University & Shanghai Chengtou Water Group Co., LTD <br>
 A real-time scheduling system for water distribution network based on deep learning. <br>
   * Engaged in overall control system development, maintenance and amelioration.
