@@ -30,7 +30,7 @@ Education
 
 Publications
 ======
-* Markov Decision Process Based Value chain calculation of water distribution network scheduling <br>
+* Markov decision process based value chain calculation of water distribution network scheduling <br>
   __Xuanting Ji__, Minghai Chen, Zhengheng Pu, Yanfu Fu, Tao Taoa, Kunlun Xin <br>
   <a href="https://drive.google.com/file/d/1j1azuKvYZA4WapN08HNLWC0UENZQCUj0/view?usp=sharing" target="_blank" rel="noopener noreferrer">
   \[Under review\]
