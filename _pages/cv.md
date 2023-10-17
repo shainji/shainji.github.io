@@ -53,7 +53,7 @@ __Supervisor__: <a href="https://sese.tongji.edu.cn/szdw/zyjs/js/X/xkl.htm" targ
 __Lab__: <a href="https://smartwater.tongji.edu.cn/index.htm" target="_blank"> Smart Water Joint Innovation R&D Center </a> , Tongji University <br>
 _Markov decision process_ | _Decision evaluation_ | _Water distribution network_ <br>
   * Set value indicators and parameters for immediate reward function.
-  * Proposed a method to evaluate the cumulative value of scheduling decisions.
+  * Proposed a method to calculate the cumulative value of scheduling decisions.
   * Conducted test and verification on practical scheduling and hydraulic data.
 
 * __Missing data repair of water network based on graph sampling theory__, 10/2020 - 06/2021 <br>
