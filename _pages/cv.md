@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* <b>B.S. in Environmental Engineering, 2021</b> <br> 
+* <b>B.E. in Environmental Engineering, 2021</b> <br> 
   Tsinghua University, China (ranked 23th in <a href="https://www.usnews.com/education/best-global-universities/tsinghua-university-503146" target="_blank">U.S.News Best Global Universities</a>) <br>
     **GPA**: 3.2/4.0 <br>
     <details> <summary>Main Courses</summary>
@@ -20,7 +20,7 @@ Education
       <b>Math and Programming</b>: Programming Fundamentals, Probability and Statistics, Introduction to Methods of Mathematics and Physics, Calculus, Linear Algebra <br>
     </details>
 
-* <b>M.S. in Municipal Engineering, Water supply and drainage, 2024 </b> <br>
+* <b>M.E. in Municipal Engineering, Water supply and drainage, 2024 </b> <br>
   Tongji University, China (ranked 14th in <a href="https://www.usnews.com/education/best-global-universities/water-resources" target="_blank">U.S.News Best Global Universities for Water Resources</a>) <br>
     **GPA**: 4.7/5.0<br>
     <details> <summary>Main Courses</summary>
