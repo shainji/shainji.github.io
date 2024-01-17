@@ -24,8 +24,8 @@ Education
   Tongji University, China (ranked 14th in <a href="https://www.usnews.com/education/best-global-universities/water-resources" target="_blank">U.S.News Best Global Universities for Water Resources</a>) <br>
     **GPA**: 4.7/5.0<br>
     <details> <summary>Main Courses</summary>
-      <b>Math and Analysis</b>: Methods of optimization, Numerical Analysis <br>
-      <b>Professions</b>: Theory of Water Supply and Sewage Treatment, Data Management and Experimental Design, Cost Analysis in Water Supply and Sewage Engineering, Frontier in Municipal Engineering <br>
+      <b>Math and Analysis</b>: Methods of optimization, Numerical Analysis, Data Management and Experimental Design<br>
+      <b>Professions</b>: Theory of Water Supply and Sewage Treatment, Cost Analysis in Water Supply and Sewage Engineering, Frontier in Municipal Engineering <br>
     </details>
 
 Publications
