@@ -31,14 +31,16 @@ Education
 Publications
 ======
 * Markov decision process based value chain calculation of water distribution network scheduling <br>
-  \[Under review\] __Xuanting Ji__, Minghai Chen, Zhengheng Pu, Yanfu Fu, Tao Taoa, Kunlun Xin <br>
+  __Xuanting Ji__, Minghai Chen, Zhengheng Pu, Yanfu Fu, Tao Taoa, Kunlun Xin <br>
+  <a href="https://www.sciencedirect.com/science/article/pii/S2588912523000358" target="_blank"> Available Online</a>
   <!-- <a href="https://drive.google.com/file/d/1j1azuKvYZA4WapN08HNLWC0UENZQCUj0/view?usp=sharing" target="_blank" rel="noopener noreferrer">
   \[Under review\]
   <img src="/images/pdf-icon.png" alt="PDF icon"></a>
   <a href="https://iwaponline.com/jh" target="_blank"> _Journal of Hydroinformatics_ </a> -->
   
 * Intelligent real-time scheduling of water supply network based on deep learning <br>
-  \[Minor Revision\] Zhengheng Pu, Minghai Chen, __Xuanting Ji__, Yanfu Fu, Wenchong Tian, Tao Tao, Kunlun Xin <br>
+  Zhengheng Pu, Minghai Chen, __Xuanting Ji__, Yanfu Fu, Wenchong Tian, Tao Tao, Kunlun Xin <br>
+  <a href="https://iwaponline.com/aqua/article/72/12/2277/98900/Intelligent-real-time-scheduling-of-water-supply" target="_blank"> Available Online</a>
   <!-- <a href="https://drive.google.com/file/d/1j1azuKvYZA4WapN08HNLWC0UENZQCUj0/view?usp=sharing" target="_blank" rel="noopener noreferrer">
   \[Under review\]
   <img src="/images/pdf-icon.png" alt="PDF icon"> </a>
