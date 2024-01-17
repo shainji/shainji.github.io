@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Xuanting \(Shain\) Ji! <br>
+Hi, I'm Xuanting Ji! <br>
 I am applying for a __PhD in Environmental Engineering__ for the entry of 2024 Fall Semester. <br>
 I am currently a final year master student in the College of Environmental Science and Engineering of __Tongji University__, majoring in __water supply and drainage engineering__. <br>
 I got my bachelor's degree of __environmental engineering__ in __Tsinghua University__. <br>
