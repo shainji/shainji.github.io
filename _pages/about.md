@@ -10,7 +10,8 @@ redirect_from:
 
 Hi, I'm Xuanting Ji! <br>
 I am applying for a __PhD in Environmental Engineering__ for the entry of 2024 Fall Semester. <br>
-I am currently a final year master student in __Tongji University__, majoring in __water supply and drainage engineering__. <br>
+I am currently a final year master student in <a href="https://en.tongji.edu.cn/p/#/" target="_blank"> __Tongji University__ </a>, majoring in __water supply and drainage engineering__. <br>
+
 I got my bachelor's degree of __environmental engineering__ in __Tsinghua University__. <br>
 
 Research Interest
