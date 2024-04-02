@@ -83,11 +83,7 @@ _Group Project of Course_: Urban Water and Wastewater Pipeline Works<br>
 
 Skills
 ======
-<!-- * Programming: Python, MATLAB, C, R, Java -->
 * Modelling: EPANET, AutoCAD, ArcGIS, WNTR
-<!-- * Platform:
-  * ML/DL/RL: Pytorch, Tensorflow
-  * Data analysis: Pandas -->
 
 Language
 ======
