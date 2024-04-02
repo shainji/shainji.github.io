@@ -46,8 +46,8 @@ Publications
   <img src="/images/pdf-icon.png" alt="PDF icon"> </a>
   <a href="https://iwaponline.com/aqua" target="_blank"> _AQUA_ </a> -->
   
-* Software copyright of water distribution network online hydraulic simulation and burst detection. <br>
-  Registered at CHINA COPYRIGHT PROTECTION CENTER. Registration Number: 2023SR0829571. <br>
+<!-- * Software copyright of water distribution network online hydraulic simulation and burst detection. <br>
+  Registered at CHINA COPYRIGHT PROTECTION CENTER. Registration Number: 2023SR0829571. <br> -->
 
 Research Experience
 ======
@@ -76,18 +76,18 @@ A real-time scheduling system for water distribution network based on deep learn
   * Developed evaluation and feedback model with Python.
   * Conducted operating data analysis, monitored operating state.
 
-* __Design of water supply and drainage network in urban area of a town__ <br>
+<!-- * __Design of water supply and drainage network in urban area of a town__ <br>
 _Group Project of Course_: Urban Water and Wastewater Pipeline Works<br>
   * Conducted hydraulic calculation and topological design of drainage part.
-  * Compiled design document and drew plans and sections.
+  * Compiled design document and drew plans and sections. -->
 
 Skills
 ======
-* Programming: Python, MATLAB, C, R, Java
+<!-- * Programming: Python, MATLAB, C, R, Java -->
 * Modelling: EPANET, AutoCAD, ArcGIS, WNTR
-* Platform:
+<!-- * Platform:
   * ML/DL/RL: Pytorch, Tensorflow
-  * Data analysis: Pandas
+  * Data analysis: Pandas -->
 
 Language
 ======
@@ -96,7 +96,7 @@ Language
 
 Outreach
 ======
-* Secretary in Student Union Publicity Department, School of Environment, Tsinghua University <br>
+<!-- * Secretary in Student Union Publicity Department, School of Environment, Tsinghua University <br> -->
 * Volunteer of Water filter construction for arsenic removal in Pingyao, China <br>
 * Volunteer of campus tour guide, Tsinghua University
 
